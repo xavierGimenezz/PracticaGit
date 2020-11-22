@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+#  ave maria de los git
 
 *Git* nuestro que estas en los repos 
 Comprimidos sean tus *commits* 
