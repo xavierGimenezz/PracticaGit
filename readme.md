@@ -16,10 +16,9 @@ tanto en styled como htmlify
 -(paso 26) No si queremos que siga apuntando al commit en el que estaba master
 
 -(paso 27) Utilizamos git log --graph para ver el id y git reset (id) para
-deshacer el merge sin afectar al working copy
+deshacer el merge sin afectar al working copy o tambien git reset HEAD~1
 
--(paso 28) Utilizamos git reflog para volver con un git reset (id) a antes
-para deshacer el merge
+-(paso 28) Utilizamos el comando git -restore 
 
 -(paso 29) git branch -D title
 
